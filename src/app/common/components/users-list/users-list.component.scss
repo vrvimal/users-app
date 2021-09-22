@@ -40,6 +40,10 @@
     }
   }
 
+  .front-card, .back-card {
+    min-height: 36vh;
+  }
+
   .back-card {
     display: none;
   }
